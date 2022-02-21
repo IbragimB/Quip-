@@ -1,0 +1,101 @@
+h2{
+    font-size: 42px;
+    font-family: GT Walsheim Web,sans-serif;
+    font-weight: 700;
+    color: #3d3d3d;
+    margin: 0;
+}
+b{
+    font-family: GT Walsheim Web,sans-serif;
+    font-weight: 1000;
+}
+body{
+    margin: 0;
+    margin-top: 0;
+}
+#header-bar2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+}
+#header-bar1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+}
+#all1{
+    width: 100%;
+    background: url(https://quip-marketing.com/_next/static/media/hero-bg.051c88d07556e20b3cd1a207414b968e.jpg) 100% no-repeat;
+}
+header{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+#all4{
+    background-image: linear-gradient(180deg,#f6f1fa,#fbf9fd);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: GT Walsheim Web, sans-serif;
+}
+#all4_text{
+    margin: 0 auto; 
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    width: 835px;
+    height: 207px;
+}
+#all4_row{
+    display: flex;
+    flex-direction: row;
+}
+#all4_bez{
+    margin-left: 550px;
+    width: 312px;
+    height: 233px;
+}
+#all4_ver{
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 312px;
+    height: 233px;
+}
+#all4_shield{
+    width: 312px;
+    height: 233px;
+}
+.all4_a{
+    margin-top: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #00a1e0
+}
+#h1_bez{
+    font-size: 41px;
+    justify-content: center;
+    text-align: center;
+}
+.all4_p{
+    font-size: 21px;
+    color:#3d3d3d;
+    letter-spacing: -.02em;
+    text-align: center;
+}
+.h1_all4{
+    font-size: 24px;
+}
